@@ -1,0 +1,16 @@
+
+.poster {
+    max-width: 3000px;
+    max-height: 300px;
+    height: 3000px;
+    width: 300px;
+}
+
+.judul {
+    text-align: left;
+
+}
+
+.movies {
+margin-bottom: 1cm;
+}
